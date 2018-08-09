@@ -16,7 +16,7 @@
 ;; On the other hand, 'use-package' can help us organize configuration better.
 ;; the code in "init" block will be executed before the require of package.
 ;; if the "init" code give an error, then the require step will be skipped.
-;; while the code in "cofig" will be executed after the require of package.
+;; while the code in "config" will be executed after the require of package.
 
 (use-package color-moccur
   :commands (isearch-moccur isearch-all)
