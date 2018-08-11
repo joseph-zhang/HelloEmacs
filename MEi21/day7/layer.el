@@ -41,7 +41,3 @@ better-defaults
 ;; then modify config.el, this file contains some configuration of layer.
 ;; the usage of other files is east to understand, just like a module.
 ;; At last, don't forget to add this new layer to dotspacemacs-configuration-layers if you want to use it.
-
-
-
-
